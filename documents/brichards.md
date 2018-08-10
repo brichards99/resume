@@ -1,4 +1,4 @@
-[www.brichards.net(https://www.brichards.net)] | [brichards99@gmail.com](mailto:brichards99@gmail.com) | 724.494.4368
+[www.brichards.net](https://www.brichards.net) | [brichards99@gmail.com](mailto:brichards99@gmail.com) | 724.494.4368
 
 ## Brian Richards
 *320 Fort Duquesne Blvd, 23M*
