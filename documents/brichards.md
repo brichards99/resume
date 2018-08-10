@@ -109,7 +109,7 @@ Member, ACM Special Interest Group on University & College Computing Services
 
 ***
 ### Awards and Honors
-ServiceNow Knowledge17 Hackathon Winner - 'Social Good' category
+ServiceNow Knowledge17 Hackathon Winner --- 'Social Good' category, May 2017
 
 Carnegie Mellon University staff “Andy Award” for innovation, June 2010
 
