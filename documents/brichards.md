@@ -19,9 +19,16 @@ Carnegie Mellon University, Pittsburgh, PA
 
 ***
 ### Employment
+**KForce, Incorporated**
+
+**ServiceNow Developer 2018-present**
+* Contributed to work in support of federal government contracts through Accenture.
+* Developed in ServiceNow using scoped applications, Service Portal, REST API, and core platform technologies
+* Participated in daily Scrum standups, peer reviews, and team-based development activities
+
 **Carnegie Mellon University**
 
-**ServiceNow Developer / Administrator, 2015-present**
+**ServiceNow Developer / Administrator, 2015-2018**
 * Served as lead programmer for the team delivering ServiceNow, a platform-as-a-service tool for IT service management. 
 Development tasks required working with Javascript, CSS, and HTML for GUI development, as well as LDAP and XML for integration tasks.
 * Performed software architecture tasks for ongoing development of the ServiceNow platform, including defining requirements, writing specifications, and assigning work to the development staff.  
